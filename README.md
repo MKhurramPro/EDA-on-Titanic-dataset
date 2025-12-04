@@ -104,7 +104,7 @@ Data Analyst | AI/ML Engineer | Python Enthusiast
 
 <p align="center">
   <a href="https://github.com/MKhurramPro/EDA-on-Titanic-dataset/stargazers">
-    <img src="https://img.shields.io/github/stars/yourusername/titanic-eda?style=social" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/MKhurramPro/EDA-on-Titanic-dataset?style=social" alt="GitHub stars">
   </a>
 </p>
 
